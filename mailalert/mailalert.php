@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Email on Login and others 
-Description: Sendet eine E-Mail an eine bestimmte Adresse, wenn sich ein Benutzer anmeldet.
+Plugin Name: Mailalert - Email on Login and others 
+Description: Sends an Email to others when someone logs into your wordpress
 Version: 1.0
 Author: guenther haslbeck 
 */
